@@ -1,2 +1,2 @@
-# C20-project-GCSO
-different deformation bring different colors. 
+# p5.play-boilerplate
+Boiler plate for p5.play
